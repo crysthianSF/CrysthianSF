@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E0FF00&height=120&section=header"/>
 
 - 🔭 Estudante de Engenharia de Software.
-- 🌱 Front end.
+- 🌱 back end.
 - 📫 Contate-me pelo email: crysthiansf@gmail.com
 - ⚡ Estudando C++ e Java.
 - <div style="display: inline_block"><br>
